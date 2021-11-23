@@ -1,0 +1,28 @@
+Index,State,Condition,Tag,Shift
+Agglomeration economies - low,Low,HVC,Production,-12.6
+Agglomeration economies - medium,Medium,HVC,Production,14.1
+Agglomeration economies - high,High,HVC,Production,-1.46
+Agglomeration economies - low,Low,OA,Production,-4.2
+Agglomeration economies - medium,Medium,OA,Production,2.2
+Agglomeration economies - high,High,OA,Production,2.02
+Agglomeration economies - low,Low,F,Production,4
+Agglomeration economies - medium,Medium,F,Production,-3.3
+Agglomeration economies - high,High,F,Production,-0.63
+Agglomeration economies - low,Low,N,Track record,-14
+Agglomeration economies - medium,Medium,N,Track record,-1.3
+Agglomeration economies - high,High,N,Track record,15.17
+Agglomeration economies - low,Low,LTD,Track record,11.2
+Agglomeration economies - medium,Medium,LTD,Track record,-10.4
+Agglomeration economies - high,High,LTD,Track record,-0.88
+Agglomeration economies - low,Low,EXT,Track record,-2.1
+Agglomeration economies - medium,Medium,EXT,Track record,4.6
+Agglomeration economies - high,High,EXT,Track record,-2.53
+Agglomeration economies - low,Low,EXT and HVC,"Production, Track record",-3
+Agglomeration economies - medium,Medium,EXT and HVC,"Production, Track record",6.9
+Agglomeration economies - high,High,EXT and HVC,"Production, Track record",-3.93
+Agglomeration economies - low,Low,EXT and F,"Production, Track record",2.6
+Agglomeration economies - medium,Medium,EXT and F,"Production, Track record",0.5
+Agglomeration economies - high,High,EXT and F,"Production, Track record",-3.19
+Agglomeration economies - low,Low,LTD and OA,"Production, Track record",11.2
+Agglomeration economies - medium,Medium,LTD and OA,"Production, Track record",-10.2
+Agglomeration economies - high,High,LTD and OA,"Production, Track record",-0.98

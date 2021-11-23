@@ -1,0 +1,55 @@
+Criteria,Configuration,Label,Sensitivity
+Land accessibility,BL,UNC,6.93
+Socio-cultural conditions,BL,UNC,4.03
+Market drivers,BL,UNC,3.49
+Infrastructure and logistics,BL,UNC,2.33
+Other inputs supply,BL,UNC,2.14
+Agroecology,BL,UNC,2.1
+Operations-related reasons,BL,UNC,1.9
+Investor track record,BL,UNC,1.69
+Strategic reasons,BL,UNC,1.52
+Policy environment,BL,UNC,1.05
+Market proximity,BL,UNC,0.944
+Socio-economic and environmental impact,BL,UNC,0.916
+Types of production,BL,UNC,0.83
+Economic and financial conditions,BL,UNC,0.694
+Labor supply,BL,UNC,0.214
+Labor supply,HVC & EXT,"HVC, EXT",24.3
+Policy environment,HVC & EXT,"HVC, EXT",18.4
+Agroecology,HVC & EXT,"HVC, EXT",8.48
+Strategic reasons,HVC & EXT,"HVC, EXT",8.32
+Operations-related reasons,HVC & EXT,"HVC, EXT",5.16
+Market drivers,HVC & EXT,"HVC, EXT",4.74
+Socio-economic and environmental impact,HVC & EXT,"HVC, EXT",3.32
+Infrastructure and logistics,HVC & EXT,"HVC, EXT",3.32
+Economic and financial conditions,HVC & EXT,"HVC, EXT",3.32
+Market proximity,HVC & EXT,"HVC, EXT",0.000104
+Other inputs supply,HVC & EXT,"HVC, EXT",0.000104
+Socio-cultural conditions,HVC & EXT,"HVC, EXT",0.000104
+Land accessibility,HVC & EXT,"HVC, EXT",0.000104
+Agroecology,F & EXT,"FOR, EXT",17.6
+Socio-cultural conditions,F & EXT,"FOR, EXT",15.1
+Land accessibility,F & EXT,"FOR, EXT",15.1
+Market drivers,F & EXT,"FOR, EXT",10.3
+Infrastructure and logistics,F & EXT,"FOR, EXT",10.3
+Policy environment,F & EXT,"FOR, EXT",1.69E-05
+Economic and financial conditions,F & EXT,"FOR, EXT",1.69E-05
+Labor supply,F & EXT,"FOR, EXT",1.69E-05
+Market proximity,F & EXT,"FOR, EXT",1.69E-05
+Socio-economic and environmental impact,F & EXT,"FOR, EXT",1.69E-05
+Other inputs supply,F & EXT,"FOR, EXT",1.69E-05
+Strategic reasons,F & EXT,"FOR, EXT",1.69E-05
+Operations-related reasons,F & EXT,"FOR, EXT",1.69E-05
+Market drivers,OA & LTD,"OAG, LTD",21.2
+Economic and financial conditions,OA & LTD,"OAG, LTD",19.8
+Other inputs supply,OA & LTD,"OAG, LTD",18.1
+Strategic reasons,OA & LTD,"OAG, LTD",13.7
+Socio-cultural conditions,OA & LTD,"OAG, LTD",13.1
+Land accessibility,OA & LTD,"OAG, LTD",10.2
+Agroecology,OA & LTD,"OAG, LTD",10.2
+Socio-economic and environmental impact,OA & LTD,"OAG, LTD",8.36
+Market proximity,OA & LTD,"OAG, LTD",6.12
+Infrastructure and logistics,OA & LTD,"OAG, LTD",5.23
+Policy environment,OA & LTD,"OAG, LTD",4.72
+Labor supply,OA & LTD,"OAG, LTD",4.72
+Operations-related reasons,OA & LTD,"OAG, LTD",3.74

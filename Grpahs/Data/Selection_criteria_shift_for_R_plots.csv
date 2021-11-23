@@ -1,0 +1,40 @@
+Criterion,Condition,Tag,Shift
+Market proximity,EXT and HVC,"HVC, EXT",-68.9
+Land accessibility,EXT and HVC,"HVC, EXT",34.3
+Infrastructure and logistics,EXT and HVC,"HVC, EXT",-52.4
+Agroecology,EXT and HVC,"HVC, EXT",31.3
+Policy environment,EXT and HVC,"HVC, EXT",33.8
+Market drivers,EXT and HVC,"HVC, EXT",50.8
+Socio-cultural conditions,EXT and HVC,"HVC, EXT",-30.8
+Operations-related reasons,EXT and HVC,"HVC, EXT",3.2
+Strategic reasons,EXT and HVC,"HVC, EXT",47.7
+Other inputs supply,EXT and HVC,"HVC, EXT",-13.4
+Socio-economic and environmental impact,EXT and HVC,"HVC, EXT",8.37
+Economic and financial conditions,EXT and HVC,"HVC, EXT",8.26
+Labor supply,EXT and HVC,"HVC, EXT",36.5
+Market proximity,EXT and F,"FOR, EXT",31.1
+Land accessibility,EXT and F,"FOR, EXT",-8.9
+Infrastructure and logistics,EXT and F,"FOR, EXT",29.3
+Agroecology,EXT and F,"FOR, EXT",16.5
+Policy environment,EXT and F,"FOR, EXT",-32.4
+Market drivers,EXT and F,"FOR, EXT",-23.45
+Socio-cultural conditions,EXT and F,"FOR, EXT",12.4
+Operations-related reasons,EXT and F,"FOR, EXT",-19.3
+Strategic reasons,EXT and F,"FOR, EXT",-23.8
+Other inputs supply,EXT and F,"FOR, EXT",-13.4
+Socio-economic and environmental impact,EXT and F,"FOR, EXT",-4.23
+Economic and financial conditions,EXT and F,"FOR, EXT",-4.34
+Labor supply,EXT and F,"FOR, EXT",-22.6
+Market proximity,LTD and OA,"OAG, LTD",-21.7
+Land accessibility,LTD and OA,"OAG, LTD",10.7
+Infrastructure and logistics,LTD and OA,"OAG, LTD",-34
+Agroecology,LTD and OA,"OAG, LTD",-26.4
+Policy environment,LTD and OA,"OAG, LTD",42.3
+Market drivers,LTD and OA,"OAG, LTD",27.5
+Socio-cultural conditions,LTD and OA,"OAG, LTD",19.4
+Operations-related reasons,LTD and OA,"OAG, LTD",-8.5
+Strategic reasons,LTD and OA,"OAG, LTD",36.4
+Other inputs supply,LTD and OA,"OAG, LTD",34.2
+Socio-economic and environmental impact,LTD and OA,"OAG, LTD",7.67
+Economic and financial conditions,LTD and OA,"OAG, LTD",5.14
+Labor supply,LTD and OA,"OAG, LTD",52

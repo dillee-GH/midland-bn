@@ -1,0 +1,37 @@
+Resource_frontier,Agglomeration_economies,Investment_location,Tag,Probability
+low,low,Smallholder populated land,A,1
+low,medium,Smallholder populated land,A,0.2
+low,high,Smallholder populated land,A,0
+medium,low,Smallholder populated land,A,0.2
+medium,medium,Smallholder populated land,A,0.04
+medium,high,Smallholder populated land,A,0
+high,low,Smallholder populated land,A,0
+high,medium,Smallholder populated land,A,0
+high,high,Smallholder populated land,A,0
+low,low,Subsistence frontier,B,0
+low,medium,Subsistence frontier,B,0
+low,high,Subsistence frontier,B,0
+medium,low,Subsistence frontier,B,0.8
+medium,medium,Subsistence frontier,B,0.16
+medium,high,Subsistence frontier,B,0
+high,low,Subsistence frontier,B,1
+high,medium,Subsistence frontier,B,0.2
+high,high,Subsistence frontier,B,0
+low,low,Emerging commercial frontier,C,0
+low,medium,Emerging commercial frontier,C,0
+low,high,Emerging commercial frontier,C,0
+medium,low,Emerging commercial frontier,C,0
+medium,medium,Emerging commercial frontier,C,0.64
+medium,high,Emerging commercial frontier,C,0.8
+high,low,Emerging commercial frontier,C,0
+high,medium,Emerging commercial frontier,C,0.8
+high,high,Emerging commercial frontier,C,1
+low,low,Established markets,D,0
+low,medium,Established markets,D,0.8
+low,high,Established markets,D,1
+medium,low,Established markets,D,0
+medium,medium,Established markets,D,0.16
+medium,high,Established markets,D,0.2
+high,low,Established markets,D,0
+high,medium,Established markets,D,0
+high,high,Established markets,D,0

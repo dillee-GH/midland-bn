@@ -1,0 +1,37 @@
+Location,Condition,Tag,Label,Score
+Populated smallholder land,Production type,Production,HVC,-9.2
+Subsistence frontier,Production type,Production,HVC,-0.7
+Emerging commercial frontier,Production type,Production,HVC,8.8
+Established market,Production type,Production,HVC,1.07
+Populated smallholder land,Production type,Production,OA,-1.9
+Subsistence frontier,Production type,Production,OA,-1.9
+Emerging commercial frontier,Production type,Production,OA,-0.5
+Established market,Production type,Production,OA,4.11
+Populated smallholder land,Production type,Production,F,2.3
+Subsistence frontier,Production type,Production,F,0.9
+Emerging commercial frontier,Production type,Production,F,-1.2
+Established market,Production type,Production,F,-2
+Populated smallholder land,Investor track record,Track record,N,-13.8
+Subsistence frontier,Investor track record,Track record,N,-0.5
+Emerging commercial frontier,Investor track record,Track record,N,14.1
+Established market,Investor track record,Track record,N,0.18
+Populated smallholder land,Investor track record,Track record,LTD,3.9
+Subsistence frontier,Investor track record,Track record,LTD,5.3
+Emerging commercial frontier,Investor track record,Track record,LTD,-6.21
+Established market,Investor track record,Track record,LTD,-2.91
+Populated smallholder land,Investor track record,Track record,EXT,1
+Subsistence frontier,Investor track record,Track record,EXT,-2.2
+Emerging commercial frontier,Investor track record,Track record,EXT,0
+Established market,Investor track record,Track record,EXT,1.2
+Populated smallholder land,Combination scenarios,"Production, Track record",EXT and HVC,-15.9
+Subsistence frontier,Combination scenarios,"Production, Track record",EXT and HVC,14.3
+Emerging commercial frontier,Combination scenarios,"Production, Track record",EXT and HVC,2.2
+Established market,Combination scenarios,"Production, Track record",EXT and HVC,-0.58
+Populated smallholder land,Combination scenarios,"Production, Track record",EXT and F,7.6
+Subsistence frontier,Combination scenarios,"Production, Track record",EXT and F,-4.9
+Emerging commercial frontier,Combination scenarios,"Production, Track record",EXT and F,-1.9
+Established market,Combination scenarios,"Production, Track record",EXT and F,-0.78
+Populated smallholder land,Combination scenarios,"Production, Track record",LTD and OA,6.5
+Subsistence frontier,Combination scenarios,"Production, Track record",LTD and OA,2.6
+Emerging commercial frontier,Combination scenarios,"Production, Track record",LTD and OA,-6.29
+Established market,Combination scenarios,"Production, Track record",LTD and OA,-2.82

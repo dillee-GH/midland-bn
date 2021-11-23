@@ -1,0 +1,28 @@
+Index,State,Condition,Tag,Shift
+Resource frontier - low,Low,HVC,Production,-10
+Resource frontier - medium,Medium,HVC,Production,9.3
+Resource frontier - high,High,HVC,Production,0.6
+Resource frontier - low,Low,OA,Production,4.4
+Resource frontier - medium,Medium,OA,Production,-10.7
+Resource frontier - high,High,OA,Production,6.2
+Resource frontier - low,Low,F,Production,-0.3
+Resource frontier - medium,Medium,F,Production,3.1
+Resource frontier - high,High,F,Production,-2.9
+Resource frontier - low,Low,N,Track record,-17.4
+Resource frontier - medium,Medium,N,Track record,18.9
+Resource frontier - high,High,N,Track record,-1.6
+Resource frontier - low,Low,LTD,Track record,3
+Resource frontier - medium,Medium,LTD,Track record,-10.2
+Resource frontier - high,High,LTD,Track record,7.2
+Resource frontier - low,Low,EXT,Track record,2
+Resource frontier - medium,Medium,EXT,Track record,0.7
+Resource frontier - high,High,EXT,Track record,-2.8
+Resource frontier - low,Low,EXT and HVC,"Production, Track record",-20.96
+Resource frontier - medium,Medium,EXT and HVC,"Production, Track record",22.1
+Resource frontier - high,High,EXT and HVC,"Production, Track record",-1.2
+Resource frontier - low,Low,EXT and F,"Production, Track record",6.2
+Resource frontier - medium,Medium,EXT and F,"Production, Track record",2.9
+Resource frontier - high,High,EXT and F,"Production, Track record",-9.2
+Resource frontier - low,Low,LTD and OA,"Production, Track record",2.9
+Resource frontier - medium,Medium,LTD and OA,"Production, Track record",3.4
+Resource frontier - high,High,LTD and OA,"Production, Track record",-6.5
